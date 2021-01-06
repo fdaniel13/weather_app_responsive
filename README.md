@@ -1,7 +1,8 @@
 # weather_app
 
-A new Flutter application.
 
+<img src='images/tempApp%20(1).jpeg' width='400'> 
+<img src='images/tempApp%20(2).jpeg' width='200'>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
